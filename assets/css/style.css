@@ -923,5 +923,9 @@ a {
     font-size: 13px;
     padding: 12px 20px;
   }
+
+  .footer .inner-middle .inner-menu a {
+    margin-right: 20px;
+  }
 }
 /* End Footer */
